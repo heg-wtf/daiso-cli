@@ -78,4 +78,4 @@ uv run ruff format src/ tests/
 
 ## 라이선스
 
-Private
+MIT
